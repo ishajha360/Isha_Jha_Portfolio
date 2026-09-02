@@ -2,9 +2,6 @@
 
 My personal portfolio showcasing my projects, technical skills, and experience as a Backend Developer.
 
-## 🚀 Live Demo
-https://ishajhaportfolio360.vercel.app/
-
 ## 🛠️ Tech Stack
 - HTML
 - CSS
