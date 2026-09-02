@@ -18,6 +18,6 @@ https://ishajhaportfolio360.vercel.app/
 - Contact Section
 
 ## 📬 Connect
-- Portfolio: https://ishajhaportfolio360.vercel.app/
+- Portfolio: https://isha-jha-portfolio.vercel.app/
 - GitHub: https://github.com/ishajha360
 - LinkedIn: https://www.linkedin.com/in/isha-jha-5453a/
